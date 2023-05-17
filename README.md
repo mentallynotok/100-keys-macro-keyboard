@@ -1,4 +1,6 @@
-# 100-keys-macro-keyboard (ongoing)
+# 100-keys-macro-keyboard (ONHOLD)
+
+# PROJECT IS ON HOLD CUS I GOT REALLY BUSY SORRY BOYS
 
 100 Keys macro keyboard that I don't need.
 
